@@ -9,6 +9,11 @@ A comprehensive sentiment analysis project implementing multiple machine learnin
 - Development and evaluation of ensemble models
 - In-depth performance analysis and model selection
 
+## Project Workflow
+The project follows a structured workflow for sentiment analysis, as illustrated in the diagram below:
+
+![Sentiment Analysis Workflow](workflow.png)
+
 ## Key Features
 ### Preprocessing Techniques
 - Text cleaning and standardization
